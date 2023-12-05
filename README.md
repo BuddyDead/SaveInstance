@@ -1,4 +1,4 @@
-**[Rain] SaveInstance - Place Copier for Elysian (LocalScripts, Terrain, etc.)**
+**[Rain] SaveInstance - Place Copier for Everyone (LocalScripts, Terrain, etc.)**
 
 
 This is a small open-source project I've been working on over the past few days. It serves a simple purpose, and that is to copy games.
